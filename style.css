@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    border: 2px solid cadetblue;
+   border-radius: 20%;
+   color: cadetblue;
+   box-shadow: 10px 10px 21px 0 black;
+}
+
+.link-nav {
+    border : 3px solid black;
+    color: black;
+    border-radius: 10%;
+}
+
+a {
+    color : black;
+}
+
+.social {
+ box-shadow: 10px 10px 21px 0 black;
+}
+
+.li {
+    border: 2px solid black;
+}
